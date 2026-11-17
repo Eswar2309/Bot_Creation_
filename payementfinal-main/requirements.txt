@@ -1,0 +1,14 @@
+pyrofork==2.3.45
+tgcrypto
+motor
+dnspython
+aiohttp
+aiofiles
+curl-cffi
+cloudscraper
+qrcode
+Pillow
+uvloop
+imageio-ffmpeg
+python-dotenv
+opencv-python-headless
